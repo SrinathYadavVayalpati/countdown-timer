@@ -1,0 +1,16 @@
+div {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-image: linear-gradient(#00c3ff, #ffff1c);
+}
+p {
+  height: 100px;
+  width: 500px;
+  background-image: linear-gradient(#16bffd, #cb3066);
+  text-align: center;
+  font-size: 60px;
+  border-radius: 10px;
+}
